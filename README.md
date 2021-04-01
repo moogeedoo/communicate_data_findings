@@ -32,6 +32,7 @@ Occupation
 EmploymentStatus
 IsBorrowerHomeowner
 BorrowerState
+
 Why is Prosper used? (Is it related to rates, fees, or faster processing time)
 ListingCreationDate
 LoanOriginationDate
@@ -41,6 +42,7 @@ BorrowerRate
 ProsperRating
 Term
 LoanStatus
+
 What is primarily influencing the interest rate? (is it related to scoring, income and history)
 ProsperRating (Alpha)
 ProsperScore
